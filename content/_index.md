@@ -1,6 +1,5 @@
 ---
 title: Welcome
-draft: true
 ---
 
 My name is Barbu Paul - Gheorghe,
