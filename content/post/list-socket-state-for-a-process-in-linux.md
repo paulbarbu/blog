@@ -109,5 +109,6 @@ TODO: links
 
 ### Improvements
 
-* `lsof -F` for parsing the output by other programs
-* the `awk` script could be improved to count all the possible sockets states
+* for the PID of a process you can use `pidof process-name-here`, but this won't work if you have multiple instances of the same application running and you'll have to manually select the one you need;
+* `lsof -F` for parsing the output by other programs;
+* the `awk` script could be improved to count all the possible sockets states without much dependence on the socket state exactly appearing only on the last column of the `lsof` output
