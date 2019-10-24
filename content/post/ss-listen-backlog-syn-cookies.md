@@ -1,7 +1,12 @@
 ---
 title: "Linux TCP Socket States, the Listen Backlog and SYN cookies"
-date: 2019-10-13T21:23:00+03:00
-draft: true
+date: 2019-10-24T21:23:00+03:00
+tags:
+ - lsof
+ - awk
+ - tail
+ - tcp
+ - linux
 ---
 
 For a TLDR about the Listen Backlog and SYN cookies: [Jump to the Listen Backlog and SYN cookies explanation](#explanation)
