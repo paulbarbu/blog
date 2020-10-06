@@ -25,7 +25,7 @@ Owning none of the above and just having had the tow bar and 13 pin socket insta
 
 If you own a caravan you can test all the connection by connecting it, but here are the alternatives in case you don't:
 
-1. Buying a dedicated 13 pin socket tester
+1. Buying a dedicated 13 pin socket tester: ![Off the shelf tester](/13pinsocket/tester.jpg)
 2. Using a voltmeter and some light bulbs to simulate the caravan being connected.
 
 I'm going to explore the second option, since it's the fun and informative one.
