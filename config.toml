@@ -2,7 +2,7 @@ baseURL = "http://paulbarbu.github.io/"
 languageCode = "en-us"
 title = "Barbu Paul - Gheorghe"
 theme = "vanilla-bootstrap-hugo-theme"
-##googleAnalytics = "UA-123456789-1"
+googleAnalytics = "UA-151260211-1 "
 
 # Uncomment below to enable syntax highlighting
 pygmentsCodefences = true
