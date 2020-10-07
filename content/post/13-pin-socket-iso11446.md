@@ -23,7 +23,7 @@ If you have a trailer with a 7-pin plug, there are adapters from 13 to 7 pins as
 
 Owning none of the above and just having had the tow bar and 13 pin socket installed, I needed a way to check the socket was actually working according to spec (just for fun).
 
-If you own a caravan you can test all the connection by connecting it, but here are the alternatives in case you don't:
+If you own a caravan you can test all the connections by actually connecting it and using it, but here are the alternatives in case you don't:
 
 1. Buying a dedicated 13 pin socket tester: ![Off the shelf tester](/13pinsocket/tester.jpg)
 2. Using a voltmeter and some light bulbs to simulate the caravan being connected.
@@ -91,8 +91,8 @@ This is simple: regardless of the state of your engine/ignition, connecting the 
 
 Depending on the socket and module you have installed **pin 12** may or may not be the trailer detection pin, if it is, when connecting the trailer this pin will be connected to ground (**pin 3**).
 
-On my particular installation (the MP5-DS-G13 module) the trailer detection is done by checking if a big enough load is connected between **pin 6** and **pin 3**, which is equivalent to having working brakes on your trailer/caravan. Which makes more sense. If you have braking lights on your trailer, the system knows it's connected, otherwise **pin 12** might not be grounded with all trailer manufacturers.
-This is a cool trick and if I'm not mistaken provides compatibility even if you use a 13-7 pin adapter.
+On my particular installation (the MP5-DS-G13 module) the trailer detection is done by checking if a big enough load is connected between **pin 6** and **pin 3**, which is equivalent to having working brakes on your trailer/caravan. Which makes more sense. If you have brake lights on your trailer, the system knows it's connected, otherwise **pin 12** might not be grounded with all trailer manufacturers.
+This is a cool trick and if I'm not mistaken provides compatibility even if you use a 13-7 pin adapter. This is cool since any trailer will have brake lights.
 
 Now, make sure you connect a big enough load, I first connected a 5W bulb with nothing happening. After I switched to a 21W bulb the "trailer" was detected by the system.
 
@@ -114,7 +114,14 @@ So:
 
 ### Switched power testing
 
-This was the trickiest for me.
+This was the trickiest for me. According to many online sources **pin 10** should come alive when the ignition is switched on or the engine is running.
+Well... this wasn't the case.
+
+Some sources say that the engine has to actually run for some time in order to charge the battery. Others say that you have to turn off you auto start/stop system.
+
+It turns out these were all wrong for my module. The trick was the above *trailer detection* point. After I connected a 21 Watt bulb (as if there were a trailer connected) the fridge pin (**10**) came on and between it and **pin 11** I had a potential difference reading of 12V on the voltmeter when the ignition was switched on. Success, all pins are working
+
+Since the permanent power pin works even if a trailer is not connected. I somehow expected the switched power pin to work the same way. Just switch on the ignition and the pin should work, but I was wrong, a trailer has to be connected. This is what made me actually write this post, so that others will know to properly simulate a trailer connection.
 
 [^1]: I have the MP5-DS-G13 from [quasarelectronics.pl](https://www.quasarelectronics.pl/en/towbar-wiring-kits-3/towbar-wiring-13-pin/mp4-ds-mp5-ds/mp5-ds-g13/) - I'm not affiliated
 [^2]: This is 12V, but better safe than sorry!
