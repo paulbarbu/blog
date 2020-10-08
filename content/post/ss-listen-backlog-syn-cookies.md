@@ -1,6 +1,8 @@
 ---
 title: "Linux TCP Socket States, the Listen Backlog and SYN cookies"
 date: 2019-10-24T21:23:00+03:00
+categories:
+  - "Software"
 tags:
  - lsof
  - awk
@@ -8,6 +10,12 @@ tags:
  - tcp
  - linux
 ---
+
+TCP socket debugging on GNU/Linux using a handful of basic tools: lsof, awk and tail.
+
+<!--more-->
+
+### Counting socket states
 
 For a TLDR about the Listen Backlog and SYN cookies: [Jump to the Listen Backlog and SYN cookies explanation](#explanation)
 

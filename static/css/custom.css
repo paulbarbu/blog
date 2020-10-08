@@ -1,0 +1,4 @@
+/* Do not display the thumbnail in the post again */
+.post__thumbnail img {
+    display: none;
+}
