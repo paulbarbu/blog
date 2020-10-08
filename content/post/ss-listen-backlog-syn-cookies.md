@@ -137,7 +137,7 @@ And you'd better leave SYN cookies enabled since that can cause you downtime fur
 
 Ideally, you'd have to fix your application, either by quickly `accept`ing connections and placing them into a queue for future processing or by having the client send the first data through the socket, instead of the server, or if that's not possible by implementing a heartbeat protocol into your application protocol (which provides a host of problems of its own, starting with the fact the the client may have to first send data, something which led us to this solution).
 
-[^1]: https://cr.yp.to/syncookies.htmland
+[^1]: https://cr.yp.to/syncookies.html
 [^2]: https://blog.stephencleary.com/2009/05/detection-of-half-open-dropped.html
 [^3]: http://veithen.io/2014/01/01/how-tcp-backlog-works-in-linux.html
 [^4]: https://www.evanjones.ca/tcp-stuck-connection-mystery.html
