@@ -18,10 +18,8 @@ If something is wrong, please contact me about it.
 The best way you can get in touch with me is via email: barbu.paul.gheorghe [at] gmail [dot] com
 I'm open to project ideas, corrections or improvements to whatever content I created online.
 
-<i data-feather="wifi-off"></i>
-While offline, you can find me tending to other activities apart from programming, like running or DIY work around the house or
-reading, since I try to avoid screens and sitting as much as possible after work.
+<i data-feather="twitter"></i>
+I'm also on Twitter, my handle there is [@paulbarbu](https://twitter.com/paulbarbu).
 
-<i data-feather="book-open"></i>
-Lately I regularly volunteer at a local [CoderDojo](https://coderdojo.com/) as a mentor in order to pass on some programming knowledge.
-Learning is also a big part of my free time, keeping up with the latest developments in technology is pretty important in the field of programming.
+<i data-feather="wifi-off"></i>
+While offline, you can find me tending to other activities apart from programming, like running or DIY work around the house since I try to avoid screens and sitting as much as possible after work.

@@ -53,3 +53,6 @@ pygmentsStyle = "pygments"
   homeText = "Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream."
   footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
   hideFooter = false
+
+[markup.goldmark.renderer]
+unsafe= true
