@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:paulbarbu/paulbarbu.github.io.git
 	branch = master
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/vimux/mainroad

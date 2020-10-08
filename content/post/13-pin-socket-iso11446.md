@@ -1,7 +1,6 @@
 ---
 title: "Testing a 13 Pin Towing Socket without a dedicated tester"
 date: 2020-10-06T20:53:01+03:00
-draft: true
 tags:
  - diy
  - electronics
