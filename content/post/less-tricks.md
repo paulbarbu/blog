@@ -1,7 +1,6 @@
 ---
 title: "Less Tricks For The Command Line"
 date: 2020-10-13T21:35:16+03:00
-draft: true
 categories:
   - "Software"
 tags:
@@ -9,7 +8,6 @@ tags:
  - linux
 thumbnail: "/lesstricks/thumbnail.webp"
 ---
-
 
 Less tricks for more productivity on the command line. Pun intended.
 
@@ -27,7 +25,7 @@ I have been a user of `cat` and `grep` combination (`cat file.txt | grep foo`) f
 
 What follows are just basic features of `less` that I use on a daily basis, for more advanced usage see its man page.
 
-# Searching
+## Searching
 
 After having opened a file in less `less file.txt` you can start searching for keywords by pressing `/` and typing the search term.
 Like so: `/foobar`
@@ -50,6 +48,8 @@ In order to exclude lines containing a term, just negate it using `!`, like this
 
 Will hide all lines that do contain the "foobar" term.
 
+**Note:** Both the filtering and the searching features have a history of terms, after typing either `/` or `&` use the up arrow to see term previously used.
+
 ## Line numbers
 
 You can also display line numbers and they will also be filtered in/out so you can see which lines match your criteria.
@@ -68,6 +68,8 @@ Or you can use this functionality by pressing `F` (`Shift` + `f`) in order to ma
 
 In order to stop watching for changes, press `Ctrl` + `c`.
 
+Very handy feature when you want to follow a log file.
+
 ## Colored output
 
 If you have `colordiff` installed, a little thing I like to do and use almost daily is:
@@ -75,5 +77,7 @@ If you have `colordiff` installed, a little thing I like to do and use almost da
 `svn diff | colordiff | less -R`
 
 This will simulate for SVN what `git diff` does out of the box.
+
+This demonstrates that `less` can output colors as well and the pagination comes in handy so your terminal stays clean after viewing the diff.
 
 <small>Thumbnail image from https://pixabay.com/ </small>
