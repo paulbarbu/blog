@@ -1,5 +1,6 @@
 ---
 title: "Testing a 13 Pin Towing Socket without a dedicated tester"
+description: "How to test a 13 pin towing socket using a multimeter (i.e. without a caravan, trailer or a dedicated tester)"
 date: 2020-10-06T20:53:01+03:00
 categories:
   - "Hardware"

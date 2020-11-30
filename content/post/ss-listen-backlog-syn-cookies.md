@@ -1,5 +1,6 @@
 ---
 title: "Linux TCP Socket States, the Listen Backlog and SYN cookies"
+description: "TCP socket debugging on GNU/Linux using a handful of basic tools: lsof, awk and tail."
 date: 2019-10-24T21:23:00+03:00
 categories:
   - "Software"

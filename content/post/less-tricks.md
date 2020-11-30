@@ -1,5 +1,6 @@
 ---
 title: "Less Tricks For The Command Line"
+description: "Less tricks for more productivity on the command line. Pun intended."
 date: 2020-10-13T21:35:16+03:00
 categories:
   - "Software"
