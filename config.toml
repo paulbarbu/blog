@@ -2,7 +2,8 @@ baseURL = "https://paulbarbu.github.io/"
 languageCode = "en-us"
 title = "Barbu Paul - Gheorghe"
 theme = "mainroad"
-googleAnalytics = "UA-151260211-1"
+#googleAnalytics = "UA-151260211-1"
+googleAnalytics = "G-13FB0RB5M0"
 paginate = "10"
 
 
