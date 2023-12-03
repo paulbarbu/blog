@@ -2,7 +2,7 @@
 title: "Chain Link Systems"
 date: 2023-12-03T20:57:10+02:00
 description: "Focus on improving the areas you stand to get most out of"
-draft: true
+#draft: true
 categories:
   - "Self Improvement"
 tags:
@@ -12,7 +12,7 @@ thumbnail: "/chainlinksystems/matthew-lancaster-MthZSf_Blzs-unsplash.jpg"
 ---
 
 In sixth grade, during the physics lesson, I learned that two objects cannot exist in the same space. Obvious, right?
-Well, Mr. Bunau (the physics teacher) just made obvious something that everybody instinctively knows. I certainly knew this, but didn't put it into words and it was amazing for me at the time what a simple concept, how obvious, yet I didn't think to formulate it in to words.
+Well, Mr. Bunău (the physics teacher) just made obvious something that everybody instinctively knows. I certainly knew this, but didn't put it into words and it was amazing for me at the time what a simple concept, how obvious, yet I didn't think to formulate it in to words.
 This is why words mean things, putting concepts into words helps other people better understand your thoughts.
 
 Since sixth grade I had many more moments such as the one described earlier, today it happened again while I was reading [Richard P. Rumelt's book: Good Strategy Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-difference-matters/dp/1781256179).
