@@ -15,7 +15,7 @@ In sixth grade, during the physics lesson, I learned that two objects cannot exi
 Well, Mr. Bunau (the physics teacher) just made obvious something that everybody instinctively knows. I certainly knew this, but didn't put it into words and it was amazing for me at the time what a simple concept, how obvious, yet I didn't think to formulate it in to words.
 This is why words mean things, putting concepts into words helps other people better understand your thoughts.
 
-Since sixth grade I had many more moments such as the one described earlier, today it happened again while I was reading **Richard P. Rumelt**'s book: **Good Strategy Bad Strategy**.
+Since sixth grade I had many more moments such as the one described earlier, today it happened again while I was reading [Richard P. Rumelt's book: Good Strategy Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-difference-matters/dp/1781256179).
 
 There's a chapter there named **Chain-link systems**. It briefly describes that in order to improve something, be it an entire company or even just a process, you'll have to improve the weakest link first. Obviously: the whole chain is as strong as its weakest link. Doesn't make sense to further improve the other, stronger, links, since the weak one will still fail first.
 
