@@ -31,7 +31,7 @@ So I have done this 3 times now. I haven't thought twice about the frequency, af
  * you have time to act on their feedback (from the previous survey) and maybe see some results
 
  On the other hand people can also get survey fatigue if you're running them too often.
- If the feedback is gathered too rarely, then you might continue some behavior that is not appropriate. If this is the case and you're doing something really bad, then other company mechanisms should kick in, but this is reserved for bad scenarios like consistently not meeting deadlines and losing clients, not for "you might want to be friendlier" or "you might want to be more consistent in setting 1-1s agendas".
+ If the feedback is gathered too rarely, then you might continue some behavior that is not appropriate. If this is the case and you're doing something really bad, then other company mechanisms should kick in, but this is reserved for bad scenarios like consistently not meeting deadlines and losing clients, not for _"you're too strict"_ or _"you might want to be more consistent in setting 1-1s agendas"_.
 
  In short: you have to find the sweet spot that works for you.
 
@@ -91,8 +91,33 @@ For the "text" answers, I would like to see one or two sentences of actionable f
 Disclaimer: I haven't come up with these myself, but I no longer know which online article I used to come up with this list of questions.
 For example I now find the fact that I speak in 3rd person about myself icky. I might change this in the future, but some of the questions were worded this way where I sourced them from and I kept all of them similar.
 
+Question 15 is a meta-question and it helped me refine the survey itself. At first, the "rating" questions were "yes/no" questions. Through this 15th question I learned this might not work very well and people wanted to provide a "rating", which is more granular and helps with seeing improvement over time.
+
 # My experience with the answers
 
+This is the part that actually prompted me to write this piece.
+
+Seeing the 360 feedback survey one of my peers asked:
+
+> "I would like to learn your verdict about this way of getting team feedback"
+
+Well, it depends.
+In my limited experience, keep in mind I've only done it three times, there's two types of people:
+
+* those who write their name and have some soft feedback, which is usually easily put into practice since it's reduced to "do more of the same".
+* those who'd like to remain anonymous (this is actually the target audience due to the psychological aspect mentioned earlier) and have "harsher" feedback to offer. Because of the anonymity they actually offer it since otherwise they don't do it in 1-1 meetings.
+
+
+The "harsher" feedback ranges from (paraphrasing a bit):
+* _"the wheel is turning, now you're on top, you might hit bottom next"_ - I can't do anything about this... not actionable, somewhat aggressive. My manager actually warned me that under the anonymity protection accountability might go out the window 😊
+* to: _"hey you're too strict, please let us work in our own rhythm"_, and _"please rely more on your instincts, not on process"_ - which I can act upon and I appreciate.
+
+
+# Conclusion
+Take what's written in these with a pinch of salt (since anonymity can make people crueler), but I really see the value here for these actionable items and it helps me really see what they are seeing.
+
+
+Still, I would really like that the actionable feedback be delivered to me when I ask at the end of 1-1s _"what I can change, what can I do different?"_ in person - so I can discuss and learn more 🙂 but... psychological safety is not yet at that level unfortunately. SO ... on to increasing it together with the HR department by running stay-in interviews (something that I didn't know existed until now).
 
 
 <small>
