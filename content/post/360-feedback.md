@@ -117,7 +117,9 @@ The "harsher" feedback ranges from (paraphrasing a bit):
 Take what's written in these with a pinch of salt (since anonymity can make people crueler), but I really see the value here for these actionable items and it helps me really see what they are seeing.
 
 
-Still, I would really like that the actionable feedback be delivered to me when I ask at the end of 1-1s _"what I can change, what can I do different?"_ in person - so I can discuss and learn more 🙂 but... psychological safety is not yet at that level unfortunately. SO ... on to increasing it together with the HR department by running stay-in interviews (something that I didn't know existed until now).
+Still, I would really like that the actionable feedback be delivered to me when I ask at the end of 1-1s _"what I can change, what can I do different?"_ in person - so I can discuss and learn more 🙂 but... psychological safety is not yet at that level unfortunately. So ... on to increasing it together with the HR department by running stay-in interviews (something that I didn't know existed until now).
+
+One interesting point from my peer, with which I agree, is that usually the negative feedback of one person, delivered in a retrospective meeting (oh, hey, SCRUM) can actually negatively influence the other team members which, initially, didn't share this opinion. Hence, this form of feedback gathering is a nice addition to these retro meetings (which anyway, according to SCRUM are focused on the process itself).
 
 
 <small>
