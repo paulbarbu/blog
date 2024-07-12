@@ -11,7 +11,7 @@ thumbnail: "/360feedback/yeshi-kangrang-iuqxv7kFj64-unsplash.jpg"
 ---
 
 
-# About
+## About
 
 Since I became a manager I have been reading about feedback gathering. All in an attempt to improve and try to have my team's best interests in mind.
 
@@ -24,7 +24,7 @@ This can come in handy if the team needs the psychological safety of typing some
 <!--more-->
 
 
-# Target audience
+## Target audience
 
 My target audience is colleagues I regularly interact with. Regardless of level.
 I also tend to include skip level managers that I know might have an opinion on my work and performance.
@@ -32,7 +32,7 @@ This is the source of the name __360 feedback__, you look in all directions.
 
 If you include people that do not really work with or for you, you might not get a response, or get a shallow one and lose both of your and their time.
 
-# Frequency
+## Frequency
 
 Speaking about time: After my transition from IC to manager, I have set out to run these surveys every 6 months.
 So I have done this 3 times now. I haven't thought twice about the frequency, after reading about others' experience from running surveys I decided I didn't want to overdo this since the period of time should be long enough that:
@@ -45,7 +45,7 @@ So I have done this 3 times now. I haven't thought twice about the frequency, af
  In short: you have to find the sweet spot that works for you.
 
 
-# Questions and their answer type
+## Questions and their answer type
 
 I aim for a short survey in order to maximize my chances of everybody responding, you don't want people to get bored with the questions. The questions have to be easy to understand and answer.
 You don't want to waste people's time, reading the email inviting one to take the survey and realizing they will not answer, is lost time and a context switch causing lost productivity for somebody. I'd like to avoid this.
@@ -96,7 +96,7 @@ For example I now find the fact that I speak in 3rd person about myself icky. I 
 
 Question 15 is a meta-question and it helped me refine the survey itself. At first, the "rating" questions were "yes/no" questions. Through this 15th question I learned this might not work very well and people wanted to provide a "rating", which is more granular and helps with seeing improvement over time.
 
-# My experience with the answers
+## My experience with the answers
 
 This is the part that actually prompted me to write this piece.
 
@@ -116,7 +116,7 @@ The "harsher" feedback ranges from (paraphrasing a bit):
 * to: _"hey you're too strict, please let us work in our own rhythm"_, and _"please rely more on your instincts, not on process"_ - which I can act upon and I appreciate.
 
 
-# Conclusion
+## Conclusion
 Take what's written in these with a pinch of salt (since anonymity can make people crueler), but I really see the value here for these actionable items and it helps me really see what they are seeing.
 
 
