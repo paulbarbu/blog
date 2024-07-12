@@ -23,9 +23,18 @@ This can come in handy if the team needs the psychological safety of typing some
 
 <!--more-->
 
+
+# Target audience
+
+My target audience is colleagues I regularly interact with. Regardless of level.
+I also tend to include skip level managers that I know might have an opinion on my work and performance.
+This is the source of the name __360 feedback__, you look in all directions.
+
+If you include people that do not really work with or for you, you might not get a response, or get a shallow one and lose both of your and their time.
+
 # Frequency
 
-After my transition from IC to manager, I have set out to run these surveys every 6 months.
+Speaking about time: After my transition from IC to manager, I have set out to run these surveys every 6 months.
 So I have done this 3 times now. I haven't thought twice about the frequency, after reading about others' experience from running surveys I decided I didn't want to overdo this since the period of time should be long enough that:
  * people have time to form opinions
  * you have time to act on their feedback (from the previous survey) and maybe see some results
@@ -35,16 +44,10 @@ So I have done this 3 times now. I haven't thought twice about the frequency, af
 
  In short: you have to find the sweet spot that works for you.
 
-# Target audience
-
-My target audience is colleagues I regularly interact with. Regardless of level.
-I also tend to include skip level managers that I know might have an opinion on my work and performance.
-If you include people that do not really work with or for you, you might not get a response, or get a shallow one and lose both of your and their time. Which brings me to my next topic, what questions should one ask?
-
 
 # Questions and their answer type
 
-I aimed for a short survey in order to maximize my chances of everybody responding, you don't want people to get bored with the questions. The questions have to be easy to understand and answer.
+I aim for a short survey in order to maximize my chances of everybody responding, you don't want people to get bored with the questions. The questions have to be easy to understand and answer.
 You don't want to waste people's time, reading the email inviting one to take the survey and realizing they will not answer, is lost time and a context switch causing lost productivity for somebody. I'd like to avoid this.
 
 So this is the question list and type (replace _Your Name_ with your actual name):
@@ -109,7 +112,7 @@ In my limited experience, keep in mind I've only done it three times, there's tw
 
 
 The "harsher" feedback ranges from (paraphrasing a bit):
-* _"the wheel is turning, now you're on top, you might hit bottom next"_ - I can't do anything about this... not actionable, somewhat aggressive. My manager actually warned me that under the anonymity protection accountability might go out the window 😊
+* _"the wheel is turning, now you're on top, you might hit bottom next"_ - I can't do anything about this... not actionable, somewhat aggressive. My manager actually warned me that, under the anonymity protection, accountability might go out the window 😊
 * to: _"hey you're too strict, please let us work in our own rhythm"_, and _"please rely more on your instincts, not on process"_ - which I can act upon and I appreciate.
 
 
@@ -119,7 +122,7 @@ Take what's written in these with a pinch of salt (since anonymity can make peop
 
 Still, I would really like that the actionable feedback be delivered to me when I ask at the end of 1-1s _"what I can change, what can I do different?"_ in person - so I can discuss and learn more 🙂 but... psychological safety is not yet at that level unfortunately. So ... on to increasing it together with the HR department by running stay-in interviews (something that I didn't know existed until now).
 
-One interesting point from my peer, with which I agree, is that usually the negative feedback of one person, delivered in a retrospective meeting (oh, hey, SCRUM) can actually negatively influence the other team members which, initially, didn't share this opinion. Hence, this form of feedback gathering is a nice addition to these retro meetings (which anyway, according to SCRUM are focused on the process itself).
+One interesting point from my peer that asked me about these, with which I agree, is that usually the negative feedback of one person, delivered in a retrospective meeting (oh, hey, SCRUM) can actually negatively influence the other team members which, initially, didn't share this opinion. Hence, this form of feedback gathering is a nice addition to these retro meetings - which anyway, according to SCRUM are focused on the process itself and this is more high level, department & me oriented, not per project itself or one project specific team.
 
 
 <small>
