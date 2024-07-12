@@ -1,7 +1,7 @@
 ---
 title: "360 Feedback Surveys"
 date: 2024-07-03T17:39:38+03:00
-draft: true
+draft: false
 description: "My thought about anonymous feedback from your peers, managers and reports gathered in a 360 survey"
 categories:
   - "Management"
