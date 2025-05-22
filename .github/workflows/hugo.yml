@@ -63,4 +63,4 @@ jobs:
           git commit -m "Update site $(date)"
           git push https://x-access-token:${TARGET_REPO_TOKEN}@github.com/paulbarbu/paulbarbu.github.io.git HEAD:master
         env:
-          TARGET_RPO_TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
+          TARGET_REPO_TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
