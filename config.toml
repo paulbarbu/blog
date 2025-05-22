@@ -4,8 +4,9 @@ title = "Barbu Paul - Gheorghe"
 theme = "mainroad"
 #googleAnalytics = "UA-151260211-1"
 googleAnalytics = "G-13FB0RB5M0"
-paginate = "10"
 
+[pagination]
+  pagerSize = 10
 
 [Params]
   description = "Barbu Paul - Gheorghe's blog on technical topics and personal interests" # Site description. Used in meta description
