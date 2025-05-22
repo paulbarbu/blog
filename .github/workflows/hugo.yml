@@ -54,29 +54,11 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           hugo -t mainroad
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./public
-
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      # - name: Deploy to GitHub Pages
-      #   id: deployment
-      #   uses: actions/deploy-pages@v4
-        - name: Push changes to another repo
-          run: |
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            cd public
-            git add .
-            git commit -m "Update site $(date)"
-            git push https://x-access-token:${{ secrets.TARGET_REPO_TOKEN }}@github.com/paulbarbu/paulbarbu.github.io.git HEAD:master
-          # env:
-            # TARGET_REPO_TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
+      - name: Push changes to another repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          cd public
+          git add .
+          git commit -m "Update site $(date)"
+          git push https://x-access-token:${{ secrets.TARGET_REPO_TOKEN }}@github.com/paulbarbu/paulbarbu.github.io.git HEAD:master
